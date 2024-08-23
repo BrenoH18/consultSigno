@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Os taurinos são leais, determinados e têm uma natureza prática.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Geminianos são curiosos, adaptáveis e comunicativos.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>Cancerianos são sensíveis, protetores e têm uma forte intuição.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Leoninos são confiantes, carismáticos e têm uma natureza generosa.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Virginianos são detalhistas, organizados e possuem uma mente analítica.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Librianos são diplomáticos, encantadores e buscam a harmonia em suas vidas.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Escorpianos são intensos, passionais e possuem uma grande determinação.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Sagitarianos são otimistas, aventureiros e têm uma grande sede de conhecimento.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>19/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Capricornianos são disciplinados, responsáveis e possuem uma forte ética de trabalho.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>20/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Aquarianos são inovadores, independentes e possuem uma forte consciência social.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Piscianos são compassivos, imaginativos e possuem uma grande sensibilidade.</descricao>
+    </signo>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Arianos são conhecidos por serem enérgicos, corajosos e independentes.</descricao>
+    </signo>
+</signos>

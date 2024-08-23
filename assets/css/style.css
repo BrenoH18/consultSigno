@@ -1,0 +1,57 @@
+body.content-result{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(to top, rgba(35, 35, 100, 1), rgba(35, 35, 100, 0.8));
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    font-family: 'Playfair Display', serif;
+    gap: 10%;
+}
+
+body.content-result h2{
+    font-size: 100px;
+}
+
+body.content-result p{
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #343a40;
+}
+
+h1, h2, p{
+    cursor: default;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+button {
+    width: 100%;
+    cursor: pointer;
+}
+
+a.btn{
+    padding: 10px;
+    width: 70px;   
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 1);
+    color: rgba(35, 35, 100, 1);
+    font-weight: 800;
+    cursor: pointer;
+}
+
+a.btn:hover{
+    background-color: rgba(255, 255, 255, .8);
+    color: rgba(35, 35, 100, .8);
+}
